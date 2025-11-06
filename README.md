@@ -91,14 +91,14 @@ The project is organized as a Jupyter Notebook (`group7MiniProject.ipynb`) with 
 - **Location**: `Satellite Fire Data/`
 
 ### Meteorological Data
-- **Source**: Weather station observations
+- **Source**: WheatA software(小麦芽)
 - **Format**: CSV (`黑龙江气象数据_合并.csv`)
 - **Time Period**: 2010-2019
 - **Key Variables**: Wind speed (10m), relative humidity, temperature (2m), precipitation, sea-level pressure
 - **Spatial Coverage**: Multiple cities in Heilongjiang Province
 
 ### Air Quality Data
-- **Source**: Air quality monitoring stations
+- **Source**: WheatA software（(小麦芽)）
 - **Format**: CSV (`黑龙江大气六参数据_合并.csv`)
 - **Time Period**: 2010-2019
 - **Key Variables**: PM2.5, PM10, Ozone, SO2, NO2, CO
