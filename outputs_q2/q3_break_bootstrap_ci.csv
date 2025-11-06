@@ -1,0 +1,4 @@
+metric,est,ci_low,ci_high
+pre_share(10-14),0.0504,0.0457,0.0548
+post_share(15-19),,,
+post-minus-pre,,,
